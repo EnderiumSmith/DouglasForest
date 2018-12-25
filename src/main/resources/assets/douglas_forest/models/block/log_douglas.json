@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "douglas_forest:blocks/log_douglas_top",
+        "side": "douglas_forest:blocks/log_douglas"
+    }
+}

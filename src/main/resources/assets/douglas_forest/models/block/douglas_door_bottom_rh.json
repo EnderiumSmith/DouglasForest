@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "douglas_forest:blocks/door_douglas_lower",
+        "top": "douglas_forest:blocks/door_douglas_upper"
+    }
+}

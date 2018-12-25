@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "douglas_forest:blocks/sapling_maple"
+    }
+}

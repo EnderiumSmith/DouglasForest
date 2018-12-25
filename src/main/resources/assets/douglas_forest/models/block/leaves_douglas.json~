@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "douglas_forest:blocks/leaves_douglas"
+    }
+}

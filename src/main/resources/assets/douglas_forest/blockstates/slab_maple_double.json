@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,type=none": { "model": "douglas_forest:planks_maple" },
+        "half=top,type=none": { "model": "douglas_forest:planks_maple" }
+    }
+}

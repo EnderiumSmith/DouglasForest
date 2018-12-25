@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "check_decay=false,decayable=false": { "model": "douglas_forest:leaves_maple" },
+	"check_decay=true,decayable=false": { "model": "douglas_forest:leaves_maple" },
+	"check_decay=false,decayable=true": { "model": "douglas_forest:leaves_maple" },
+	"check_decay=true,decayable=true": { "model": "douglas_forest:leaves_maple" }
+    }
+}

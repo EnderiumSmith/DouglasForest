@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "douglas_forest:log_maple" },
+        "axis=z":   { "model": "douglas_forest:log_maple", "x": 90 },
+        "axis=x":   { "model": "douglas_forest:log_maple", "x": 90, "y": 90 },
+        "axis=none": { "model": "douglas_forest:maple_bark" }
+    }
+}

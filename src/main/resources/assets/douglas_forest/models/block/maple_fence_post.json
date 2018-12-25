@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "douglas_forest:blocks/planks_maple"
+    }
+}

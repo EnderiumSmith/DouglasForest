@@ -1,0 +1,16 @@
+[
+{
+  "modid": "douglas_forest",
+  "name": "Douglas Forest",
+  "description": "Adds a Douglas Fir forest biome",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EnderiumSmith"],
+  "credits": "TFC for the Douglas Fir tree",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

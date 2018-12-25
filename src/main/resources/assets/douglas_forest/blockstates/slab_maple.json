@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,type=none": { "model": "douglas_forest:half_slab_maple" },
+        "half=top,type=none": { "model": "douglas_forest:upper_slab_maple" }
+    }
+}

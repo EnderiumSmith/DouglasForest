@@ -1,0 +1,9 @@
+tile.douglas_forest:log_douglas.name=Douglas Fir Log
+tile.douglas_forest:leaves_douglas.name=Douglas Fir Leaves
+tile.douglas_forest:sapling_douglas.name=Douglas Fir Sapling
+tile.douglas_forest:planks_douglas.name=Douglas Fir Planks
+tile.douglas_forest:fence_douglas.name=Douglas Fir Fence
+tile.douglas_forest:gate_douglas.name=Douglas Fir Fence Gate
+item.douglas_forest:door_douglas.name=Douglas Fir Door
+tile.douglas_forest:slab_douglas.name=Douglas Fir Slab
+tile.douglas_forest:stairs_douglas.name=Douglas Fir Stairs
